@@ -38,7 +38,7 @@ Power BI dashboard highlights:
 * Product Category Revenue
 * Regional & Seasonal Trends
 * ## 📊 Live Dashboard  
-[View the interactive report](https://app.powerbi.com/groups/me/reports/447d57ae-b9d1-4d76-b94d-e495ee1d3959?pbi_source=desktop)
+[View the interactive report](https://app.powerbi.com/links/Qy_B_nEQSP?ctid=bb4e68cd-fdbb-4789-82e5-1584d60de7f4&pbi_source=linkShare)
 
 
 ### 💡 Skills Demonstrated
