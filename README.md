@@ -37,6 +37,9 @@ Power BI dashboard highlights:
 * Preferred Payment Methods
 * Product Category Revenue
 * Regional & Seasonal Trends
+* ## 📊 Live Dashboard  
+[View the interactive report](https://app.powerbi.com/groups/me/reports/447d57ae-b9d1-4d76-b94d-e495ee1d3959?pbi_source=desktop)
+
 
 ### 💡 Skills Demonstrated
 
